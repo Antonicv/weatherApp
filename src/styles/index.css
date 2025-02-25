@@ -66,9 +66,8 @@ input {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #rgb(238, 236, 236)
+  background-color: rgb(238, 236, 236); /* Fixed typo */
   cursor: pointer;
-
 }
 
 @media (prefers-color-scheme: light) {
